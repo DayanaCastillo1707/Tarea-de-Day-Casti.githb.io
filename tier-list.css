@@ -1,0 +1,69 @@
+html{
+    background-color: rgb(27, 60, 206);
+    
+}
+header{
+    background-color: hsl(128, 63%, 48%);
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 10px solid rgb(60, 172, 180);
+}
+
+H2{
+    font-size: 31px;
+    font-family: sans-serif;
+}
+article{
+    background-color: cyan;
+    font-size: 23px;
+    font-family: sans-serif;
+    border: 4px solid black;
+}
+
+footer{
+    font-size: 23px;
+    background-color: rgb(18, 146, 197);
+    border: 2px solid black;
+    display: block;
+}
+
+body{
+    text-align: center;
+}
+.disculpas{
+    width: 760;
+    background: #78EA58;
+    margin: auto;
+    margin-bottom: 600px;
+    padding: 40px;
+    font-size: 25px;
+    
+}
+.menu{
+    background-color: hsl(147, 82%, 57%);
+    border: 5px solid #10013a;
+}
+.menu li{
+    list-style: none;
+    padding: 10px;
+    font: bold 24px sans-serif;
+    border: 2px solid black;
+    display: inline-block;
+}
+.prinsipal{
+    margin: 10px;
+    border: 2px solid black
+}
+.fondo{
+    text-align: left
+
+}
+time{
+    color: grey;
+}
+aside{
+    color: grey;
+}
+img{
+    margin: 40px auto;
+}
